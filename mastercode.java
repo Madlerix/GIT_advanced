@@ -1,1 +1,1 @@
-system.out.println("Hello Thomas 2.0");
+system.out.println("Hello Thomas 2.0 lokal");
